@@ -2,6 +2,9 @@
   "name": "phonevalidator",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
+  "author": {
+    "name": "@ttebify Justice Ekemezie"
+  },
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
